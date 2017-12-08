@@ -7,8 +7,6 @@ description: Understanding Project Loops and Green Price. # Add post description
 tag: [ProjectLoops, Ideas]
 ---
 
-[TOCM]
-
 ##Problem Project Loops is trying to address
 Today, we are using natural resources too heavily that even renewable resources are becoming non-renewable. Renewable resources have a maximum usage, exceeding this makes these resources non-renewable. Not only this, we are also polluting our planet with a lot of substances at a rate which is beyond earth’s ability to heal. The idea of Project Loops is to **loop the first (extraction) and last (disposal) step of industrial production** into our current economic system so that we can achieve sustainable development.
 
