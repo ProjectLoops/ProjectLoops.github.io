@@ -2,12 +2,25 @@
 layout: post
 title: "Posts about to come"
 img: Blog.jpg # Add image post (optional)
-date: 2017-12-08 14:33:00 +09:00
-description: Understanding Project Loops and Green Price. # Add post description (optional)
-tag: [ProjectLoops, Ideas]
+date: 2017-12-10 03:48:00 +09:00
+description: Posts about to come which are on mind # Add post description (optional)
+tag: [ProjectLoops, Ideas, Opinions]
 ---
 
-Today, we are using natural resources too heavily that even renewable resources are becoming non-renewable. Renewable resources have a maximum usage, exceeding this makes these resources non-renewable. Not only this, we are also polluting our planet with a lot of substances at a rate which is beyond earth’s ability to heal. The idea of Project Loops is to **loop the first (extraction) and last (disposal) step of industrial production** into our current economic system so that we can achieve sustainable development.
 
-## Traditional Solutions
-The current solutions involves making of new rules by Government and trying to make companies stop the production which costs a lot to the environment. But, this is not so successful as the Governments are get influenced by big companies and so government does a lot of favours to the companies instead of people. Even if the governments are ready to help people, governmental organizations are slow. 
+1. How Project Loops can solve Delhi smog problem and need for Project Loops
+2. Project Loops as Non-Cooperation movement v2
+2. Green Price for diesel and B-80 as a way to meet M2020 goals
+3. Sending it (CO2) back and the need for it
+4. The curious case of Granite stones
+5. Are renewable energy sourses as harmful as fossil fuels? - The case of solar energy
+6. Are renewable energy sourses as harmful as fossil fuels? - The case of wind power
+7. RLC based atmosphere simulation: A project to improve green price
+8. The state of nuclear fusion power
+9. Where to invest? Green Price as a parameter to decide
+10. Adding believe system to Green Price
+11. Opinion: Green Price is high but it will get lower the more we follow it.
+12. Forest fires cause: Human influenced or not?
+13. Opinion: Cyclones in 2017 India: Is the climate change the culprit?
+14. Opinion: AI Revolution and why we should be afraid of it
+15. AI Revolution, a chance to improve equality
