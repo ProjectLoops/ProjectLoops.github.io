@@ -25,3 +25,4 @@ This is list of posts about to come:
 - Opinion: AI Revolution and why we should be afraid of it
 - AI Revolution, a chance to improve equality
 - Why this is the right time to start? The Volkswagen Emissions Scandal and the fate of diesel vehicles
+- Bhutan - Carbon Negative?
