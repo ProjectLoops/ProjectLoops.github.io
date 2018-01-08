@@ -12,4 +12,5 @@ This is list of people who are trying to save the planet:
 - Bill Gates
 
 ### Update the list from the highlights from the book - Suck it up
+
 ## List Still in progress
